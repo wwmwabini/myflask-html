@@ -1,0 +1,3 @@
+#!/usr/bin/python3.6
+
+from run_app import myapp as application
